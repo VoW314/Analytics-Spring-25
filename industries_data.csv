@@ -1,0 +1,1001 @@
+Company,Sector
+Nvidia Corporation,US Technology
+Apple Inc.,US Technology
+Microsoft Corporation,US Technology
+"Amazon.com, Inc.",US Consumer Discretionary
+Alphabet Inc.,US Communication Services
+Saudi Arabian Oil Company,Saudi Arabian Energy
+"Meta Platforms, Inc.",US Communication Services
+"Tesla, Inc.",US Consumer Discretionary
+Broadcom Inc.,US Technology
+Berkshire Hathaway Inc.,US Financials
+Taiwan Semiconductor Manufacturing Company Limited,Taiwanese Technology
+Walmart Inc.,US Consumer Staples
+JPMorgan Chase & Co.,US Financials
+Eli Lilly and Company,US Healthcare
+Visa Inc.,US Financials
+Novo Nordisk A/S,Danish Healthcare
+Oracle Corporation,US Technology
+Mastercard Incorporated,US Financials
+Exxon Mobil Corporation,US Energy
+UnitedHealth Group Incorporated,US Healthcare
+Tencent Holdings Ltd,Chinese Communication Services
+"Netflix, Inc.",US Communication Services
+Costco Wholesale Corporation,US Consumer Staples
+"The Home Depot, Inc.",US Consumer Discretionary
+The Procter & Gamble Company,US Consumer Staples
+Bank of America Corporation,US Financials
+Johnson & Johnson,US Healthcare
+"salesforce.com, inc.",US Technology
+"LVMH Moët Hennessy - Louis Vuitton, SE",French Consumer Discretionary
+SAP SE,German Technology
+ASML Holding N.V.,Dutch Technology
+Industrial & Commercial Bank of China Ltd,Chinese Financials
+AbbVie Inc.,US Healthcare
+Chevron Corporation,US Energy
+The Coca-Cola Company,US Consumer Staples
+Wells Fargo & Company,US Financials
+"T-Mobile US, Inc.",US Communication Services
+"Cisco Systems, Inc.",US Technology
+Kweichow Moutai Co. Ltd,Chinese Consumer Staples
+"Merck & Co., Inc.",US Healthcare
+"Samsung Electronics Co., Ltd.",South Korean Technology
+Agricultural Bank of China Ltd,Chinese Financials
+"ServiceNow, Inc.",US Technology
+Toyota Motor Corporation,Japanese Consumer Discretionary
+American Express Company,US Financials
+Accenture plc,Irish Technology
+Hermès International SCA,French Consumer Discretionary
+The Blackstone Group Inc.,US Financials
+Morgan Stanley,US Financials
+Thermo Fisher Scientific Inc.,US Healthcare
+Roche Holding AG,Swiss Healthcare
+"Intuitive Surgical, Inc.",US Healthcare
+General Electric Company,US Industrials
+AstraZeneca plc,UK Healthcare
+Abbott Laboratories,US Healthcare
+China Mobile Ltd,HK Communication Services
+Linde plc,UK Basic Materials
+International Business Machines Corporation,US Technology
+Shell plc,UK Energy
+"PepsiCo, Inc.",US Consumer Staples
+McDonald's Corporation,US Consumer Discretionary
+China Construction Bank Corp,Chinese Financials
+Alibaba Group Holding Limited,Chinese Consumer Discretionary
+The Walt Disney Company,US Communication Services
+"The Goldman Sachs Group, Inc.",US Financials
+"Advanced Micro Devices, Inc.",US Technology
+PetroChina Company Limited,Chinese Energy
+Caterpillar Inc.,US Industrials
+Bank of China Ltd,Chinese Financials
+Philip Morris International Inc.,US Consumer Staples
+Qualcomm Incorporated,US Technology
+Novartis AG,Swiss Healthcare
+L'Oréal SA,French Consumer Staples
+Adobe Inc.,US Technology
+HSBC Holdings plc,UK Financials
+Texas Instruments Incorporated,US Technology
+Danaher Corporation,US Healthcare
+Royal Bank of Canada,Canadian Financials
+Intuit Inc.,US Technology
+Verizon Communications Inc.,US Communication Services
+"Arista Networks, Inc.",US Technology
+AT&T Inc.,US Communication Services
+Contemporary Amperex Technology Co. Ltd,Chinese Industrials
+Palantir Technologies Inc.,US Technology
+"Industria de Diseño Textil, SA",Spanish Consumer Discretionary
+Booking Holdings Inc.,US Consumer Discretionary
+S&P Global Inc.,US Financials
+Siemens AG,German Industrials
+"BlackRock, Inc.",US Financials
+RTX Corporation,US Industrials
+Deutsche Telekom AG,German Communication Services
+"Applied Materials, Inc.",US Technology
+Citigroup Inc.,US Financials
+Schneider Electric SE,French Industrials
+BHP Group,Australian Basic Materials
+Union Pacific Corporation,US Industrials
+HDFC Bank Limited,Indian Financials
+The Charles Schwab Corporation,US Financials
+Stryker Corporation,US Healthcare
+Pfizer Inc.,US Healthcare
+Boston Scientific Corporation,US Healthcare
+Amgen Inc.,US Healthcare
+"Lowe's Companies, Inc.",US Consumer Discretionary
+Honeywell International Inc.,US Industrials
+Eaton Corporation plc,Irish Industrials
+Pinduoduo Inc.,Chinese Consumer Discretionary
+"Uber Technologies, Inc.",US Technology
+Comcast Corporation,US Communication Services
+Unilever plc,UK Consumer Staples
+Commonwealth Bank of Australia,Australian Financials
+"NextEra Energy, Inc.",US Utilities
+The Progressive Corporation,US Financials
+China Merchants Bank Co Ltd,Chinese Financials
+"Mitsubishi UFJ Financial Group, Inc.",Japanese Financials
+"The TJX Companies, Inc.",US Consumer Discretionary
+Shopify Inc.,Canadian Technology
+ConocoPhillips,US Energy
+TotalEnergies SE,French Energy
+The Boeing Company,US Industrials
+Airbus SE,Dutch Industrials
+China Life Insurance Company Limited,Chinese Financials
+Deere & Company,US Industrials
+Sanofi,French Healthcare
+Sony Group Corporation,Japanese Technology
+"Palo Alto Networks, Inc.",US Technology
+Allianz SE,German Financials
+"Automatic Data Processing, Inc.",US Industrials
+Bristol-Myers Squibb Company,US Healthcare
+Meituan,Chinese Consumer Discretionary
+CNOOC Limited,HK Energy
+Lockheed Martin Corporation,US Industrials
+"Fiserv, Inc.",US Technology
+SinoCloud Group Ltd,HK Technology
+EssilorLuxottica SA,French Healthcare
+"Micron Technology, Inc.",US Technology
+Ping An Insurance (Group) Company of China Ltd,Chinese Financials
+"Gilead Sciences, Inc.",US Healthcare
+AppLovin Corp,US Technology
+Medtronic plc,Irish Healthcare
+"United Parcel Service, Inc.",US Industrials
+"Analog Devices, Inc.",US Technology
+Vertex Pharmaceuticals Incorporated,US Healthcare
+Xiaomi Corp,Chinese Technology
+Starbucks Corporation,US Consumer Discretionary
+"Nike, Inc.",US Consumer Discretionary
+"Prologis, Inc.",US Real Estate
+"Marvell Technology, Inc.",US Technology
+Marvell Technology Group Ltd.,Bermuda Technology
+Chubb Limited,Swiss Financials
+Hitachi Ltd,Japanese Industrials
+"Marsh & McLennan Companies, Inc.",US Financials
+BYD Co Ltd,Chinese Consumer Discretionary
+Christian Dior SE,French Consumer Discretionary
+Lam Research Corporation,US Technology
+Recruit Holdings Co Ltd,Japanese Industrials
+Rio Tinto Group,UK Basic Materials
+Open Joint Stock Company OMZ,Russian Industrials
+KLA Corporation,US Technology
+China Shenhua Energy Company Ltd,Chinese Energy
+Spotify Technology SA,Luxembourg Communication Services
+"SK hynix, Inc.",South Korean Technology
+Safran SA,French Industrials
+Keyence Corp,Japanese Technology
+ABB Ltd,Swiss Industrials
+China Petroleum & Chemical Corporation,Chinese Energy
+Al Rajhi Banking and Investment Corp,Saudi Arabian Financials
+China Yangtze Power Co. Ltd,Chinese Utilities
+Dell Technologies Inc.,US Technology
+ICICI Bank Limited,Indian Financials
+KKR & Co. Inc.,US Financials
+Air Liquide SA,French Basic Materials
+"Apollo Global Management, Inc.",US Financials
+CSL Limited,Australian Healthcare
+"MercadoLibre, Inc.",Argentinian Consumer Discretionary
+Amphenol Corporation,US Technology
+Fast Retailing Co. Ltd,Japanese Consumer Discretionary
+UBS Group AG,Swiss Financials
+"Sumitomo Mitsui Financial Group, Inc.",Japanese Financials
+"CrowdStrike Holdings, Inc.",US Technology
+Intel Corporation,US Technology
+Anheuser-Busch InBev SA/NV,Belgian Consumer Staples
+RELX plc,UK Communication Services
+MicroStrategy Incorporated,US Technology
+Toronto-Dominion Bank,Canadian Financials
+DBS Group Holdings Ltd,Singaporean Financials
+The Sherwin-Williams Company,US Basic Materials
+Enbridge Inc.,Canadian Energy
+"Equinix, Inc. (REIT)",US Real Estate
+"Intercontinental Exchange, Inc.",US Financials
+Infosys Limited,Indian Technology
+The Southern Company,US Utilities
+"PayPal Holdings, Inc.",US Financials
+"Iberdrola, SA",Spanish Utilities
+Trane Technologies plc,Irish Industrials
+"Cadence Design Systems, Inc.",US Technology
+"Elevance Health, Inc.",US Healthcare
+"Interactive Brokers Group, Inc.",US Financials
+Moody's Corporation,US Financials
+Parker-Hannifin Corporation,US Industrials
+Brookfield Corporation,Canadian Financials
+American Tower Corporation (REIT),US Real Estate
+"Altria Group, Inc.",US Consumer Staples
+Prosus N.V.,Dutch Communication Services
+SoftBank Group Corp.,Japanese Communication Services
+"Synopsys, Inc.",US Technology
+Atlas Copco AB,Swedish Industrials
+BP plc,UK Energy
+Zurich Insurance Group AG,Swiss Financials
+Duke Energy Corporation,US Utilities
+Petróleo Brasileiro S.A. - Petrobras,Brazilian Energy
+"Waste Management, Inc.",US Industrials
+CME Group Inc.,US Financials
+"Airbnb, Inc.",US Communication Services
+Nippon Telegraph & Telephone Corp,Japanese Communication Services
+"HCA Healthcare, Inc.",US Healthcare
+Welltower Inc.,US Real Estate
+Cigna Corporation,US Healthcare
+British American Tobacco plc,UK Consumer Staples
+China Telecom Corp Ltd,HK Communication Services
+3M Company,US Industrials
+Ferrari N.V.,Italian Consumer Discretionary
+AXA SA,French Financials
+Cintas Corporation,US Industrials
+"Motorola Solutions, Inc.",US Technology
+"Marriott International, Inc.",US Consumer Discretionary
+Aon Plc,Irish Financials
+Equinor ASA,Norway Energy
+London Stock Exchange Group plc,UK Financials
+"Chipotle Mexican Grill, Inc.",US Consumer Discretionary
+"The PNC Financial Services Group, Inc.",US Financials
+Capital One Financial Corporation,US Financials
+Illinois Tool Works Inc.,US Industrials
+Constellation Energy Corporation,US Utilities
+Southern Copper Corporation,US Basic Materials
+"Regeneron Pharmaceuticals, Inc.",US Healthcare
+"Mondelez International, Inc.",US Consumer Staples
+"DoorDash, Inc.",US Communication Services
+TransDigm Group Incorporated,US Industrials
+McKesson Corporation,US Healthcare
+U.S. Bancorp,US Financials
+AIA Group Ltd,HK Financials
+"EOG Resources, Inc.",US Energy
+Zoetis Inc.,US Healthcare
+Hon Hai Precision Industry Co. Ltd,Taiwanese Technology
+Emerson Electric Co.,US Industrials
+"Fortinet, Inc.",US Technology
+National Australia Bank Limited,Australian Financials
+PT Bank Central Asia Tbk,Indonesian Financials
+General Dynamics Corporation,US Industrials
+"Banco Santander, SA",Spanish Financials
+Enel SpA,Italian Utilities
+Enterprise Products Partners L.P.,US Energy
+"O'Reilly Automotive, Inc.",US Consumer Discretionary
+Northrop Grumman Corporation,US Industrials
+Intesa Sanpaolo S.p.A.,Italian Financials
+"The Williams Companies, Inc.",US Energy
+Bank of Montreal,Canadian Financials
+Thomson Reuters Corporation,Canadian Industrials
+Energy Transfer LP,US Energy
+"Air Products and Chemicals, Inc.",US Basic Materials
+Arthur J. Gallagher & Co.,US Financials
+Colgate-Palmolive Company,US Consumer Staples
+"MediaTek, Inc.",Taiwanese Technology
+"Activision Blizzard, Inc.",US Communication Services
+"Tokio Marine Holdings, Inc.",Japanese Financials
+Chugai Pharmaceutical Co. Ltd,Japanese Healthcare
+"Becton, Dickinson and Company",US Healthcare
+GlaxoSmithKline plc,UK Healthcare
+Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,German Financials
+Atlassian Corporation Plc,Australian Technology
+Ecolab Inc.,US Basic Materials
+BNP Paribas SA,French Financials
+Tokyo Electron Ltd,Japanese Technology
+Bank of Nova Scotia,Canadian Financials
+Constellation Software Inc.,Canadian Technology
+ITOCHU Corp,Japanese Industrials
+"Workday, Inc.",US Technology
+Nintendo Co Ltd,Japanese Communication Services
+CVS Health Corporation,US Healthcare
+"Kinder Morgan, Inc.",US Energy
+CRH plc,Irish Basic Materials
+Canadian Pacific Railway Limited,Canadian Industrials
+Diageo plc,UK Consumer Staples
+Canadian Natural Resources Limited,Canadian Energy
+Sea Limited,Singaporean Communication Services
+"Republic Services, Inc.",US Industrials
+"Simon Property Group, Inc.",US Real Estate
+Carrier Global Corporation,US Industrials
+Vistra Corp.,US Utilities
+MERCK Kommanditgesellschaft auf Aktien,German Healthcare
+PacifiCorp,US Utilities
+FedEx Corporation,US Industrials
+Bank of Communications Co. Ltd,Chinese Financials
+CSX Corporation,US Industrials
+"Autodesk, Inc.",US Technology
+"NetEase, Inc.",Chinese Communication Services
+Royal Caribbean Cruises Ltd.,US Consumer Discretionary
+Shin-Etsu Chemical Co Ltd,Japanese Basic Materials
+Canadian National Railway Company,Canadian Industrials
+KDDI Corp,Japanese Communication Services
+Mitsubishi Corp,Japanese Industrials
+Westpac Banking Corporation,Australian Financials
+UniCredit S.p.A.,Italian Financials
+Target Corporation,US Consumer Staples
+"Mizuho Financial Group, Inc.",Japanese Financials
+Mercedes-Benz Group AG,German Consumer Discretionary
+Rolls-Royce Holdings plc,UK Industrials
+"Digital Realty Trust, Inc.",US Real Estate
+Truist Financial Corporation,US Financials
+"VMware, Inc.",US Technology
+Ares Management Corporation,US Financials
+Hilton Worldwide Holdings Inc.,US Consumer Discretionary
+The Bank of New York Mellon Corporation,US Financials
+Canadian Imperial Bank of Commerce,Canadian Financials
+Vinci SA,French Industrials
+"MetLife, Inc.",US Financials
+General Motors Company,US Consumer Discretionary
+Siemens Healthineers AG,German Healthcare
+National Grid plc,UK Utilities
+Schlumberger Limited,US Energy
+"The Trade Desk, Inc.",US Technology
+Foxconn Industrial Internet Co. Ltd,Chinese Technology
+Glencore plc,Swiss Basic Materials
+"JD.com, Inc.",Chinese Consumer Discretionary
+Aflac Incorporated,US Financials
+Norfolk Southern Corporation,US Industrials
+PACCAR Inc,US Industrials
+Vertiv Holdings Co.,US Industrials
+Industrial Bank Co. Ltd,Chinese Financials
+"Banco Bilbao Vizcaya Argentaria, SA",Spanish Financials
+"Nesco Holdings, Inc.",US Industrials
+Snowflake Inc.,US Technology
+Compass Group plc,UK Consumer Discretionary
+"Roper Technologies, Inc.",US Industrials
+Australia and New Zealand Banking Group Limited,Australian Financials
+Semiconductor Manufacturing International Corp,Chinese Technology
+"AutoZone, Inc.",US Consumer Discretionary
+Zijin Mining Group Co Ltd,Chinese Basic Materials
+Oversea-Chinese Banking Corp Ltd,Singaporean Financials
+Marinomed Biotech AG,Austria Healthcare
+Dr. Ing. h.c. F. Porsche AG,German Consumer Discretionary
+NXP Semiconductors N.V.,Dutch Technology
+"Copart, Inc.",US Industrials
+Mitsui & Co. Ltd,Japanese Energy
+Freeport-McMoRan Inc.,US Basic Materials
+Saudi Basic Industries Corp,Saudi Arabian Basic Materials
+"The Travelers Companies, Inc.",US Financials
+Sberbank of Russia PJSC,Russian Financials
+"Ameriprise Financial, Inc.",US Financials
+"W.W. Grainger, Inc.",US Industrials
+Electricité de France SA,French Utilities
+Saudi Telecom Company,Saudi Arabian Communication Services
+The Saudi National Bank,Saudi Arabian Financials
+Johnson Controls International plc,Irish Industrials
+"Block, Inc.",US Technology
+Alimentation Couche-Tard Inc.,Canadian Consumer Staples
+Pioneer Natural Resources Company,US Energy
+Barclays plc,UK Financials
+CITIC Securities Company Ltd,Chinese Financials
+MPLX LP,US Energy
+Manulife Financial Corporation,Canadian Financials
+Macquarie Group Limited,Australian Financials
+"Cheniere Energy, Inc.",US Energy
+Sempra Energy,US Utilities
+"Quanta Services, Inc.",US Industrials
+AB Volvo,Swedish Industrials
+"Paychex, Inc.",US Industrials
+"American Electric Power Company, Inc.",US Utilities
+Saudi Arabian Mining Company,Saudi Arabian Basic Materials
+"Diamondback Energy, Inc.",US Energy
+ING Groep N.V.,Dutch Financials
+"United Rentals, Inc.",US Industrials
+"Charter Communications, Inc.",US Communication Services
+Public Storage,US Real Estate
+"East Money Information Co.,Ltd.",Chinese Communication Services
+Nongfu Spring Co. Ltd,Chinese Consumer Staples
+Phillips 66,US Energy
+Cummins Inc.,US Industrials
+Discover Financial Services,US Financials
+Delta Electronics,Thai Industrials
+Marathon Petroleum Corporation,US Energy
+Adyen N.V.,Dutch Technology
+Itaú Unibanco Holding SA,Brazilian Financials
+Wesfarmers Limited,Australian Consumer Discretionary
+Bayerische Motoren Werke AG,German Consumer Discretionary
+"Samsung Biologics Co.,Ltd.",South Korean Healthcare
+The Allstate Corporation,US Financials
+"Ross Stores, Inc.",US Consumer Discretionary
+Daiichi Sankyo Company Ltd,Japanese Healthcare
+Volkswagen AG,German Consumer Discretionary
+"ONEOK, Inc.",US Energy
+MSCI Inc.,US Financials
+TC Energy Corporation,Canadian Energy
+"Axon Enterprise, Inc.",US Industrials
+"Cencora, Inc.",US Healthcare
+Newmont Corporation,US Basic Materials
+Hong Kong Exchanges & Clearing Ltd,HK Financials
+Realty Income Corporation,US Real Estate
+Shenzhen Mindray Bio-Medical Electronics Co. Ltd,Chinese Healthcare
+Dassault Systèmes SE,French Technology
+A.H. Belo Corporation,US Communication Services
+Occidental Petroleum Corporation,US Energy
+Lululemon Athletica Inc.,Canadian Consumer Discretionary
+3i Group plc,UK Financials
+"Datadog, Inc.",US Technology
+Suncor Energy Inc.,Canadian Energy
+TE Connectivity Ltd.,Swiss Technology
+"AgriBank, FCB",US Financials
+Fortescue Metals Group Limited,Australian Basic Materials
+Monster Beverage Corporation,US Consumer Staples
+"D.R. Horton, Inc.",US Consumer Discretionary
+"Nasdaq, Inc.",US Financials
+Sempra,US Utilities
+Baker Hughes Company,US Energy
+Wal-Mart de Mexico SAB de CV,Mexican Consumer Staples
+"American International Group, Inc.",US Financials
+"Waste Connections, Inc.",US Industrials
+Corning Incorporated,US Technology
+Targa Resources Corp.,US Energy
+Howmet Aerospace Inc.,US Industrials
+Rosneft Oil Co PJSC,Russian Energy
+BAE Systems plc,UK Industrials
+adidas AG,German Consumer Discretionary
+Lloyds Banking Group plc,UK Financials
+China CITIC Bank Corp Ltd,Chinese Financials
+Compagnie de Saint-Gobain SA,French Industrials
+United Overseas Bank Ltd,Singaporean Financials
+Infineon Technologies AG,German Technology
+HOYA Corp,Japanese Healthcare
+Fair Isaac Corporation,US Technology
+Alliance Data Systems Corporation,US Financials
+"Dominion Energy, Inc.",US Utilities
+Goodman Group,Australian Real Estate
+Hess Corporation,US Energy
+Valero Energy Corporation,US Energy
+Mitsubishi Heavy Industries Ltd,Japanese Industrials
+Trip.com Group Limited,Chinese Consumer Discretionary
+"Corteva, Inc.",US Basic Materials
+Assicurazioni Generali,Italian Financials
+"AMETEK, Inc.",US Industrials
+Public Service Enterprise Group Incorporated,US Utilities
+Deutsche Börse AG,German Financials
+"Japan Tobacco, Inc.",Japanese Consumer Staples
+"Agilent Technologies, Inc.",US Healthcare
+Experian plc,Irish Industrials
+"Delta Air Lines, Inc.",US Industrials
+Deutsche Post AG,German Industrials
+Danone SA,French Consumer Staples
+Fastenal Company,US Industrials
+"Honda Motor Co., Ltd.",Japanese Consumer Discretionary
+Reckitt Benckiser Group plc,UK Consumer Staples
+Seagen Inc.,US Healthcare
+"CBRE Group, Inc.",US Real Estate
+Eni S.p.A.,Italian Energy
+Keurig Dr Pepper Inc.,US Consumer Staples
+"Fidelity National Information Services, Inc.",US Technology
+"Cloudflare, Inc.",US Technology
+Wolters Kluwer N.V.,Dutch Communication Services
+The Kroger Co.,US Consumer Staples
+PJSC Lukoil,Russian Energy
+Kimberly-Clark Corporation,US Consumer Staples
+BASF SE,German Basic Materials
+Haleon plc,UK Healthcare
+"Coupang, Inc.",South Korean Consumer Discretionary
+"América Móvil, S.A.B. de C.V.",Mexican Communication Services
+Shanghai Pudong Development Bank Co. Ltd,Chinese Financials
+"L3Harris Technologies, Inc.",US Industrials
+Lonza Group Ltd,Swiss Healthcare
+Mahindra & Mahindra Ltd,Indian Consumer Discretionary
+PT Bank Rakyat Indonesia (Persero) Tbk,Indonesian Financials
+"Prudential Financial, Inc.",US Financials
+Alcon Inc.,Swiss Healthcare
+Takeda Pharmaceutical Company Limited,Japanese Healthcare
+Garmin Ltd.,Swiss Technology
+Swiss Re AG,Swiss Financials
+Siemens Energy AG,German Utilities
+Agnico Eagle Mines Limited,Canadian Basic Materials
+NatWest Group plc,UK Financials
+"Old Dominion Freight Line, Inc.",US Industrials
+PT Bayan Resources Tbk,Indonesian Energy
+Edwards Lifesciences Corporation,US Healthcare
+Advantest Corp,Japanese Technology
+"Gartner, Inc.",US Technology
+Ford Motor Company,US Consumer Discretionary
+Crédit Agricole SA,French Financials
+Seven & i Holdings Co. Ltd,Japanese Consumer Staples
+Givaudan SA,Swiss Basic Materials
+"CaixaBank, SA",Spanish Financials
+Cognizant Technology Solutions Corporation,US Technology
+Exelon Corporation,US Utilities
+"Verisk Analytics, Inc.",US Industrials
+The People's Insurance Company (Group) of China Ltd,Chinese Financials
+Anglo American plc,UK Basic Materials
+Otis Worldwide Corporation,US Industrials
+Jiangsu Hengrui Medicine Co. Ltd,Chinese Healthcare
+argenx SE,Dutch Healthcare
+EQT AB,Japanese Financials
+Heineken N.V.,Dutch Consumer Staples
+China Pacific Insurance,Chinese Financials
+GE HealthCare Technologies Inc.,US Healthcare
+Crown Castle International Corp. (REIT),US Real Estate
+Deutsche Bank AG,German Financials
+"Beijing-Shanghai High-Speed Railway Co.,Ltd.",Chinese Industrials
+"Coinbase Global, Inc.",US Technology
+PT Bank Mandiri (Persero) Tbk,Indonesian Financials
+Engie SA,French Utilities
+"HubSpot, Inc.",US Technology
+Singapore Telecommunications Ltd,Singaporean Communication Services
+Xcel Energy Inc.,US Utilities
+PT. Chandra Asri Petrochemical Tbk,Indonesian Basic Materials
+Ingersoll Rand Inc.,US Industrials
+Fubon Financial Holding Co. Ltd,Taiwanese Financials
+Sika AG,Swiss Basic Materials
+UCB SA,Belgian Healthcare
+DENSO Corp,Japanese Consumer Discretionary
+Wipro Limited,Indian Technology
+Loblaw Companies Limited,Canadian Consumer Staples
+Imperial Oil Limited,Canadian Energy
+WEG SA,Brazilian Industrials
+IQVIA Holdings Inc.,US Healthcare
+Roblox Corp,US Communication Services
+Vale SA,Brazilian Basic Materials
+Grupo Mexico SAB de CV,Mexican Basic Materials
+"Conversion Labs, Inc.",US Healthcare
+Woodside Energy Group Ltd,Australian Energy
+Ferguson plc,UK Industrials
+Romande Energie Holding SA,Swiss Utilities
+ResMed Inc.,US Healthcare
+Vulcan Materials Company,US Basic Materials
+Sysco Corporation,US Consumer Staples
+Veeva Systems Inc.,US Healthcare
+Wabtec Corporation,US Industrials
+Foshan Haitian Flavouring and Food Company Ltd,Chinese Consumer Staples
+PG&E Corporation,US Utilities
+"Alnylam Pharmaceuticals, Inc.",US Healthcare
+Lennar Corporation,US Consumer Discretionary
+"Yum! Brands, Inc.",US Consumer Discretionary
+"IDEXX Laboratories, Inc.",US Healthcare
+Humana Inc.,US Healthcare
+Oriental Land Co. Ltd,Japanese Consumer Discretionary
+DSV PANALPINA A-S,Danish Industrials
+The Kraft Heinz Company,US Consumer Staples
+"Raymond James Financial, Inc.",US Financials
+Entergy Corporation,US Utilities
+Cambricon Technologies Corp Ltd,Chinese Technology
+Stellantis N.V.,Dutch Consumer Discretionary
+Arch Capital Group Ltd.,Bermuda Financials
+PICC Property and Casualty Company Ltd,Chinese Financials
+Henkel AG & Co KGaA,German Consumer Staples
+Axis Bank Ltd,Indian Financials
+Sun Life Financial Inc.,Canadian Financials
+"Delta Electronics, Inc.",Taiwanese Technology
+Haier Smart Home Co Ltd,Chinese Consumer Discretionary
+"DexCom, Inc.",US Healthcare
+"Monolithic Power Systems, Inc.",US Technology
+ASSA ABLOY AB,Swedish Industrials
+"United Airlines Holdings, Inc.",US Industrials
+"JAPAN POST BANK Co.,Ltd.",Japanese Financials
+Mitsubishi Electric Corporation,Japanese Industrials
+"Martin Marietta Materials, Inc.",US Basic Materials
+Carnival Corporation & plc,US Consumer Discretionary
+Extra Space Storage Inc.,US Real Estate
+Equifax Inc.,US Industrials
+Intact Financial Corporation,Canadian Financials
+"MS&AD Insurance Group Holdings, Inc.",Japanese Financials
+BOC Hong Kong Holdings Ltd,HK Financials
+Deckers Outdoor Corporation,US Consumer Discretionary
+"Daikin Industries,Ltd.",Japanese Industrials
+Rheinmetall AG,German Industrials
+Centene Corporation,US Healthcare
+"Rockwell Automation, Inc.",US Industrials
+"General Mills, Inc.",US Consumer Staples
+"DuPont de Nemours, Inc.",US Basic Materials
+M&T Bank Corporation,US Financials
+Iron Mountain Incorporated,US Real Estate
+Naspers Ltd,South African Communication Services
+Standard Chartered plc,UK Financials
+"Constellation Brands, Inc.",US Consumer Staples
+Hannover Rück SE,German Financials
+Texas Pacific Land Corporation,US Energy
+"Take-Two Interactive Software, Inc.",US Communication Services
+ASM International NV,Dutch Technology
+Texas Pacific Land Corp,US Energy
+Koninklijke Ahold Delhaize N.V.,Dutch Consumer Staples
+"The Hartford Financial Services Group, Inc.",US Financials
+Thales SA,French Industrials
+"Live Nation Entertainment, Inc.",US Communication Services
+Hewlett Packard Enterprise Company,US Technology
+"Aena S.M.E., SA",Spanish Industrials
+Microchip Technology Incorporated,US Technology
+EQT Corporation,US Energy
+CITIC Ltd,HK Industrials
+Willis Towers Watson plc,UK Financials
+"ANSYS, Inc.",US Technology
+Las Vegas Sands Corp.,US Consumer Discretionary
+"Consolidated Edison, Inc.",US Utilities
+"Quanta Computer, Inc.",Taiwanese Technology
+National Bank of Canada,Canadian Financials
+HP Inc.,US Technology
+"Cardinal Health, Inc.",US Healthcare
+Flutter Entertainment plc,Irish Consumer Discretionary
+Fairfax Financial Holdings Limited,Canadian Financials
+Electronic Arts Inc.,US Communication Services
+Canon Inc.,Japanese Technology
+eBay Inc.,US Consumer Discretionary
+Daimler Truck Holding AG,German Industrials
+VICI Properties Inc.,US Real Estate
+Tesco plc,UK Consumer Staples
+"WEC Energy Group, Inc.",US Utilities
+Fujitsu Ltd,Japanese Technology
+Tractor Supply Company,US Consumer Discretionary
+"First Citizens BancShares, Inc.",US Financials
+"Ferrovial, SA",Spanish Industrials
+Skandinaviska Enskilda Banken AB,Swedish Financials
+Great-West Lifeco Inc.,Canadian Financials
+"CoStar Group, Inc.",US Real Estate
+"AvalonBay Communities, Inc.",US Real Estate
+"Amadeus IT Group, SA",Spanish Technology
+The Hershey Company,US Consumer Staples
+Kering SA,French Consumer Discretionary
+Restaurant Brands International Inc.,Canadian Consumer Discretionary
+"Brown & Brown, Inc.",US Financials
+Barrick Gold Corporation,Canadian Basic Materials
+"Keysight Technologies, Inc.",US Technology
+KBC Group NV,Belgian Financials
+Cathay Financial Holding Co. Ltd,Taiwanese Financials
+"Cheniere Energy Partners, L.P.",US Energy
+China Everbright Bank Company Ltd,Chinese Financials
+"Zscaler, Inc.",US Technology
+Xylem Inc.,US Industrials
+"Chunghwa Telecom Co., Ltd.",Taiwanese Communication Services
+COSCO SHIPPING Holdings Co Ltd,Chinese Industrials
+Fifth Third Bancorp,US Financials
+Ashtead Group plc,UK Industrials
+E.ON SE,German Utilities
+Schindler Holding AG,Swiss Industrials
+Wanhua Chemical Group Co. Ltd,Chinese Basic Materials
+Japan Post Holdings Co. Ltd,Japanese Financials
+HEICO Corporation,US Industrials
+GoDaddy Inc.,US Technology
+"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",Chinese Consumer Staples
+Dow Inc.,US Basic Materials
+ANTA Sports Products Ltd,Chinese Consumer Discretionary
+Beiersdorf AG,German Consumer Staples
+SAIC Motor Corp Ltd,Chinese Consumer Discretionary
+AP Moller - Maersk A-S,Danish Industrials
+"Baidu, Inc.",Chinese Communication Services
+The Estée Lauder Companies Inc.,US Consumer Staples
+Shaanxi Coal Industry Company Ltd,Chinese Energy
+Nucor Corporation,US Basic Materials
+"PPG Industries, Inc.",US Basic Materials
+Tradeweb Markets Inc.,US Financials
+Swisscom AG,Swiss Communication Services
+Hexagon AB,Swedish Technology
+Carvana Co.,US Consumer Discretionary
+Dr. Sulaiman Al Habib Medical Services Group Company,Saudi Arabian Healthcare
+Orange SA,French Communication Services
+Telstra Corporation Limited,Australian Communication Services
+Mettler-Toledo International Inc.,US Healthcare
+BioNTech SE,German Healthcare
+State Street Corporation,US Financials
+Kellogg Company,US Consumer Staples
+Ambev SA,Brazilian Consumer Staples
+China Unicom Hong Kong Ltd,HK Communication Services
+Pernod Ricard SA,French Consumer Staples
+Murata Manufacturing Co. Ltd,Japanese Technology
+Novatek PJSC,Russian Energy
+Fortive Corporation,US Technology
+"Broadridge Financial Solutions, Inc.",US Technology
+Wheaton Precious Metals Corp.,Canadian Basic Materials
+CRRC Corp Ltd,Chinese Industrials
+"Chongqing Sokon Industry Group Stock Co.,Ltd.",Chinese Consumer Discretionary
+Global Payments Inc.,US Industrials
+Capgemini SE,French Technology
+Synchrony Financial,US Financials
+Terumo Corp,Japanese Healthcare
+Woolworths Group Limited,Australian Consumer Staples
+Dollarama Inc.,Canadian Consumer Staples
+Dover Corporation,US Industrials
+QNB Finansbank A.S.,Turkish Financials
+Otsuka Holdings Co. Ltd,Japanese Healthcare
+Imperial Brands plc,UK Consumer Staples
+Cenovus Energy Inc.,Canadian Energy
+NARI Technology Co. Ltd,Chinese Industrials
+China National Nuclear Power Co. Ltd,Chinese Utilities
+Kuaishou Technology,Chinese Communication Services
+Equity Residential,US Real Estate
+Horizon Therapeutics Public Limited Company,Irish Healthcare
+Kansas City Southern,US Industrials
+Kuehne + Nagel International AG,Swiss Industrials
+KONE Oyj,Finnish Industrials
+CDW Corporation,US Technology
+Gazprom Neft PJSC,Russian Energy
+LPL Financial Holdings Inc.,US Financials
+Publicis Groupe SA,French Communication Services
+Warner Bros. Discovery,US Communication Services
+Legrand SA,French Industrials
+CGN Power Co. Ltd,Chinese Utilities
+Ubiquiti Inc.,US Technology
+"Williams-Sonoma, Inc.",US Consumer Discretionary
+"Church & Dwight Co., Inc.",US Consumer Staples
+VERBUND AG,Austria Utilities
+NTT Data Corp,Japanese Technology
+"LYONDELLBASELL ADVANCED POLYMERS, Inc.",US Basic Materials
+PTT PCL,Thai Energy
+Hennes & Mauritz AB,Swedish Consumer Discretionary
+"NetApp, Inc.",US Technology
+Splunk Inc.,US Technology
+Yihai Kerry Arawana Holdings Co. Ltd,Chinese Consumer Staples
+"NVR, Inc.",US Consumer Discretionary
+Erste Group Bank AG,Austria Financials
+FUJIFILM Holdings Corp,Japanese Industrials
+Transurban Group,Australian Industrials
+"Tyler Technologies, Inc.",US Technology
+China Tower Corp Ltd,Chinese Communication Services
+CGI Inc.,Canadian Technology
+"Sompo Holdings, Inc.",Japanese Financials
+Sandvik AB,Swedish Industrials
+"T. Rowe Price Group, Inc.",US Financials
+Heidelberg Materials AG,German Basic Materials
+LyondellBasell Industries N.V.,US Basic Materials
+Danske Bank A-S,Danish Financials
+Chocoladefabriken Lindt & Sprüngli AG,Swiss Consumer Staples
+Komatsu Ltd,Japanese Industrials
+"Ventas, Inc.",US Real Estate
+"West Pharmaceutical Services, Inc.",US Healthcare
+Ameren Corporation,US Utilities
+Great Wall Motor Co Ltd,Chinese Consumer Discretionary
+Koninklijke Philips N.V.,Dutch Healthcare
+Sumitomo Corp,Japanese Industrials
+DTE Energy Company,US Utilities
+Sun Hung Kai Properties Ltd,HK Real Estate
+Halliburton Company,US Energy
+Huntington Bancshares Incorporated,US Financials
+Bank of Jiangsu Co. Ltd,Chinese Financials
+Techtronic Industries Company Ltd,HK Industrials
+"Zoom Video Communications, Inc.",US Communication Services
+Waters Corporation,US Healthcare
+Hapag-Lloyd AG,German Industrials
+"EMCOR Group, Inc.",US Industrials
+"Dai-ichi Life Holdings, Inc.",Japanese Financials
+"Cellnex Telecom, SA",Spanish Communication Services
+Hubbell Incorporated,US Industrials
+Société Générale SA,French Financials
+Archer-Daniels-Midland Company,US Consumer Staples
+Airports of Thailand Public Company Ltd,Thai Industrials
+Cameco Corporation,Canadian Energy
+Vonovia SE,German Real Estate
+PPL Corporation,US Utilities
+Inner Mongolia Yili Industrial Group Co. Ltd,Chinese Consumer Staples
+Teledyne Technologies Incorporated,US Technology
+ON Semiconductor Corporation,US Technology
+Devon Energy Corporation,US Energy
+GlobalFoundries Inc.,US Technology
+"PulteGroup, Inc.",US Consumer Discretionary
+Indian Railway Finance Corp Ltd,Indian Financials
+FANUC Corp,Japanese Industrials
+China Minsheng Banking Corp Ltd,Chinese Financials
+BCE Inc.,Canadian Communication Services
+"Rocket Companies, Inc.",US Financials
+Lennox International Inc.,US Industrials
+Banco do Brasil SA,Brazilian Financials
+Vestas Wind Systems A-S,Danish Industrials
+"American Water Works Company, Inc.",US Utilities
+Advanced Info Service PCL,Thai Communication Services
+Compagnie Générale des Etablissements Michelin SCA,French Consumer Discretionary
+Marubeni Corp,Japanese Industrials
+Panasonic Corp,Japanese Technology
+"Pure Storage, Inc.",US Technology
+"Rollins, Inc.",US Consumer Discretionary
+"Naturgy Energy Group, SA",Spanish Utilities
+Li Auto Inc.,Chinese Consumer Discretionary
+SMC Corp,Japanese Industrials
+"ASE Technology Holding Co., Ltd.",Taiwanese Technology
+CTBC Financial Holding Co. Ltd,Taiwanese Financials
+Brookfield Asset Management Ltd.,Canadian Financials
+Swedbank AB,Swedish Financials
+Western Digital Corporation,US Technology
+Markel Corporation,US Financials
+ORIX Corporation,Japanese Financials
+"Telefónica, SA",Spanish Communication Services
+"Endesa, SA",Spanish Utilities
+Franco-Nevada Corporation,Canadian Basic Materials
+FirstRand Ltd,South African Financials
+Teck Resources Limited,Canadian Basic Materials
+Toyota Industries Corp,Japanese Consumer Discretionary
+CEZ AS,Czechia Utilities
+Seagate Technology plc,Irish Technology
+Hang Seng Bank Limited,HK Financials
+Bridgestone Corp,Japanese Consumer Discretionary
+China United Network Communications Ltd,Chinese Communication Services
+Renesas Electronics Corp,Japanese Technology
+STMicroelectronics N.V.,Swiss Technology
+PTC Inc.,US Technology
+"Expedia Group, Inc.",US Consumer Discretionary
+BeiGene Ltd,Chinese Healthcare
+"Natera, Inc.",US Healthcare
+Formula One Group,US Communication Services
+KB Financial Group Inc.,South Korean Financials
+WSP Global Inc.,Canadian Industrials
+FirstEnergy Corp.,US Utilities
+Sungrow Power Supply Co. Ltd,Chinese Industrials
+Commerzbank AG,German Financials
+RWE AG,German Utilities
+Riyad Bank,Saudi Arabian Financials
+"NRG Energy, Inc.",US Utilities
+Banco Santander (Brasil) SA,Brazilian Financials
+First Republic Bank,US Financials
+China Merchants Securities Co. Ltd,Chinese Financials
+QNB Finans Finansal Kiralama AS,Turkish Financials
+TDK Corp,Japanese Technology
+"Pinterest, Inc.",US Communication Services
+Vodafone Group plc,UK Communication Services
+Edison International,US Utilities
+Evolution Gaming Group AB,Swedish Consumer Discretionary
+Talanx AG,German Financials
+International Flavors & Fragrances Inc.,US Basic Materials
+"Zimmer Biomet Holdings, Inc.",US Healthcare
+"Shenzhen Inovance Technology Co.,Ltd",Chinese Industrials
+Regions Financial Corporation,US Financials
+Nutrien Ltd.,Canadian Basic Materials
+SSE plc,UK Utilities
+Hithink RoyalFlush Information Network Co. Ltd,Chinese Technology
+WuXi AppTec Co. Ltd,Chinese Healthcare
+Mitsui Fudosan Co. Ltd,Japanese Real Estate
+Prudential plc,UK Financials
+"Darden Restaurants, Inc.",US Consumer Discretionary
+"FLEETCOR Technologies, Inc.",US Technology
+Antofagasta plc,UK Basic Materials
+Weyerhaeuser Company,US Real Estate
+"Huaneng Lancang River Hydropower, Inc.",Chinese Utilities
+Zebra Technologies Corporation,US Technology
+W. R. Berkley Corporation,US Financials
+Atmos Energy Corporation,US Utilities
+Fortis Inc.,Canadian Utilities
+NEC Corp,Japanese Technology
+CSC Financial Co. Ltd,Chinese Financials
+Epiroc AB,Swedish Industrials
+Nokia Corporation,Finnish Technology
+Check Point Software Technologies Ltd.,Israeli Technology
+Fox Corporation,US Communication Services
+"Contura Energy, Inc.",US Energy
+Packaging Corporation of America,US Consumer Discretionary
+"Teradyne, Inc.",US Technology
+Sampo Oyj,Finnish Financials
+Northern Trust Corporation,US Financials
+WiseTech Global Limited,Australian Technology
+STERIS plc,Irish Healthcare
+Suzuki Motor Corp,Japanese Consumer Discretionary
+"Leidos Holdings, Inc.",US Technology
+Standard Bank Group Ltd,South African Financials
+"Illumina, Inc.",US Healthcare
+SBA Communications Corporation,US Real Estate
+China Resources Land Ltd,HK Real Estate
+Cincinnati Financial Corporation,US Financials
+Bayer AG,German Healthcare
+"CenterPoint Energy, Inc.",US Utilities
+Aristocrat Leisure Limited,Australian Communication Services
+"Cboe Global Markets, Inc.",US Financials
+Pembina Pipeline Corporation,Canadian Energy
+Tenaris SA,Luxembourg Energy
+CLP Holdings Ltd,HK Utilities
+Power Corporation of Canada,Canadian Financials
+Swiss Life Holding AG,Swiss Financials
+Biogen Inc.,US Healthcare
+"Viela Bio, Inc.",US Healthcare
+Veolia Environnement SA,French Industrials
+"MongoDB, Inc.",US Technology
+China Coal Energy Co Ltd,Chinese Energy
+"Citizens Financial Group, Inc.",US Financials
+Fresenius SE & Co KGaA,German Healthcare
+Guotai Junan Securities Co. Ltd,Chinese Financials
+China CSSC Holdings Ltd,Chinese Industrials
+TELUS Corporation,Canadian Communication Services
+"Ajinomoto Co., Inc.",Japanese Consumer Staples
+China Molybdenum Co Ltd,Chinese Basic Materials
+Sartorius Stedim Biotech SA,French Healthcare
+STERIS Corp,US Healthcare
+Eversource Energy,US Utilities
+InterContinental Hotels Group plc,UK Consumer Discretionary
+Capitec Bank Holdings Ltd,South African Financials
+Telefonaktiebolaget LM Ericsson,Swedish Technology
+Vedanta Limited,Indian Basic Materials
+Klabin SA,Brazilian Basic Materials
+Nidec Corp,Japanese Industrials
+Baoshan Iron & Steel Co. Ltd,Chinese Basic Materials
+Laboratory Corporation of America Holdings,US Healthcare
+The Carlyle Group Inc.,US Financials
+Fuyao Glass Industry Group Co. Ltd,Chinese Consumer Discretionary
+International Paper Company,US Consumer Discretionary
+Gulf Energy Development Public Company Ltd,Thai Utilities
+"VeriSign, Inc.",US Technology
+Banco Bradesco SA,Brazilian Financials
+George Weston Limited,Canadian Consumer Staples
+Aeon Co. Ltd,Japanese Consumer Discretionary
+Straumann Holding AG,Swiss Healthcare
+"McCormick & Company, Incorporated",US Consumer Staples
+"DICK'S Sporting Goods, Inc.",US Consumer Discretionary
+Powszechna Kasa Oszczednosci Bank Polski Spólka Akcyjna,Polish Financials
+"Tyson Foods, Inc.",US Consumer Staples
+The Clorox Company,US Consumer Staples
+KE Holdings Inc.,Chinese Real Estate
+Nippon Steel Corp,Japanese Basic Materials
+"Watsco, Inc.",US Industrials
+Atlantia SpA,Italian Industrials
+East Japan Railway Company,Japanese Industrials
+Erie Indemnity Company,US Financials
+CK Hutchison Holdings Ltd,HK Industrials
+"SS&C Technologies Holdings, Inc.",US Technology
+CMS Energy Corporation,US Utilities
+"Beijing Kingsoft Office Software, Inc.",Chinese Technology
+Geberit AG,Swiss Industrials
+"Builders FirstSource, Inc.",US Industrials
+"Super Micro Computer, Inc.",US Technology
+"Comfort Systems USA, Inc.",US Industrials
+Sonova Holding AG,Swiss Healthcare
+DraftKings Inc.,US Consumer Discretionary
+Insulet Corporation,US Healthcare
+Duke Realty Corporation,US Real Estate
+"Ulta Beauty, Inc.",US Consumer Discretionary
+"Hertz Global Holdings, Inc.",US Industrials
+Z Holdings Corp,Japanese Consumer Discretionary
+Grupo Financiero Banorte SAB de CV,Mexican Financials
+KeyCorp,US Financials
+Svenska Handelsbanken AB,Swedish Financials
+MTU Aero Engines AG,German Industrials
+Coterra Energy Inc.,US Energy
+Kao Corp,Japanese Consumer Staples
+ZTE Corp,Chinese Technology
+MTR Corp Ltd,HK Industrials
+Southwest Airlines Co.,US Industrials
+"The Cooper Companies, Inc.",US Healthcare
+Alinma Bank,Saudi Arabian Financials
+Trimble Inc.,US Technology
+Saudi Electricity Company,Saudi Arabian Utilities
+Teva Pharmaceutical Industries Limited,Israeli Healthcare
+Hydro One Limited,Canadian Utilities
+Zhongji Innolight Co. Ltd,Chinese Industrials
+SGS SA,Swiss Industrials
+YPF Sociedad Anónima,Argentinian Energy
+"Zillow Group, Inc.",US Communication Services
+Sany Heavy Industry Co. Ltd,Chinese Industrials
+"International Consolidated Airlines Group, SA",Spanish Industrials
+"Principal Financial Group, Inc.",US Financials
+Poste Italiane SpA,Italian Industrials
+TransUnion,US Industrials
+Open Orphan plc,UK Healthcare
+Invitation Homes Inc.,US Real Estate
+Jabil Inc.,US Technology
+Loews Corporation,US Financials
+ArcelorMittal,Luxembourg Basic Materials
+Kaspi Bank Joint Stock Company,Kazakhstan Technology
+"First Solar, Inc.",US Technology
+"Steel Dynamics, Inc.",US Basic Materials
+Sands China Ltd,Macao Consumer Discretionary
+UPM-Kymmene Oyj,Finnish Basic Materials
+"Burlington Stores, Inc.",US Consumer Discretionary
+Prysmian S.p.A.,Italian Industrials
+"Essex Property Trust, Inc.",US Real Estate
+Rogers Communications Inc.,Canadian Communication Services
+Daiwa House Industry Co Ltd,Japanese Real Estate
+Geely Automobile Holdings Ltd,HK Consumer Discretionary
+Snap-on Incorporated,US Industrials
+Shanghai International Port,Chinese Industrials
+Carlisle Companies Incorporated,US Industrials
+"Best Buy Co., Inc.",US Consumer Discretionary
+"DocuSign, Inc.",US Technology
+China Railway Group Ltd,HK Industrials
+Tencent Music Entertainment Group,Chinese Communication Services
+Summit Therapeutics Inc.,US Healthcare
+Ryanair Holdings plc,Irish Industrials
+Royalty Pharma plc,US Healthcare
+Haitong Securities Co. Ltd,Chinese Financials
+Ivanhoe Mines Ltd.,Canadian Basic Materials
+"American Campus Communities, Inc.",US Real Estate
+Zhangzhou Pientzehuang Pharmaceutical. Ltd,Chinese Healthcare
+China Communications Construction Co Ltd,Chinese Industrials
+Alfa Laval AB,Swedish Industrials
+Essity AB,Swedish Consumer Staples
+AerCap Holdings N.V.,Irish Industrials
+Air China Ltd,Chinese Industrials
+"Mid-America Apartment Communities, Inc.",US Real Estate
+Associated British Foods plc,UK Consumer Staples
+Aier Eye Hospital Group Co. Ltd,Chinese Healthcare
+Bank of Shanghai Co. Ltd,Chinese Financials
+Will Semiconductor Co. Ltd,Chinese Technology
+"SoFi Technologies, Inc.",US Financials
+Snap Inc.,US Communication Services
+Sprott Physical Gold Trust,Canadian Financials
+AVIC Shenyang Aircraft Company Ltd,Chinese Industrials
+CyberArk Software Ltd.,Israeli Technology
+Galaxy Entertainment Group Ltd,HK Consumer Discretionary
+Bank Leumi le- Israel B.M.,Israeli Financials
+FactSet Research Systems Inc.,US Financials
+Toyota Tsusho Corp,Japanese Basic Materials
+Investment AB Latour,Swedish Financials
+Brookfield Property Partners L.P.,Bermuda Real Estate
+Shenwan Hongyuan Group Co. Ltd,Chinese Financials
+"Affirm Holdings, Inc.",US Technology
+Tata Motors Limited,Indian Consumer Discretionary
